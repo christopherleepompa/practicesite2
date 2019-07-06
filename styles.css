@@ -1,3 +1,16 @@
-.banner {
+h1 {
 	text-align: center;
+}
+
+.navigation {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navigation > li {
+	float: left;
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
 }
