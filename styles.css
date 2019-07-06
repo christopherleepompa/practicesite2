@@ -1,3 +1,4 @@
-p {
-	color: red
+.banner {
+	flex-wrap: wrap
+	align-content: center
 }
