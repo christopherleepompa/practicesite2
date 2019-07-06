@@ -71,3 +71,61 @@ h1 i {
 		background-color: #3b3b3b;
 	}
 }
+
+h2 {
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-left: 20px;
+	font-family: "Verdana", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+}
+
+article {
+	margin-top: 0px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 0px;
+	padding-bottom: 50px;
+	background-color: #fff;
+}
+		
+.profileimg {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid #cfcfcf;
+	width: 250px;
+	display: block;
+	float: left;
+}
+
+.greeting {
+	font-size: 2em;
+	font-style: normal;
+	font-weight: bold;
+	margin-bottom: 0px;
+	padding-bottom; 0px;
+}
+
+.intro {
+	margin-left: 311px;
+	margin-right: 20px;
+	font-size: 1.3em;
+}
+
+#page-container {
+	position: relative;
+	min-height: 100vh;
+}
+#content-wrap {
+	padding-bottom: 2.5rem;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 2.5rem;
